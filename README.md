@@ -54,13 +54,14 @@ Every card counts for his value, except for the jack, queen and kind which stand
   * `CardTest`: finished test class, make it pass
   * `BlackJackCardTest`: implement the given tests and make it pass
   * `HandTest`: implement the leftover tests and make it pass
-  * `BlackJackTest`: finished test class, make it pass
 
 * Use a `git` command to commit your changes (_per class_)
 * Create a class `DeckTest` in the test project and implement the following tests:
   * constructor creates a deck of 52 `BlackJackCard`s
   * method `Draw` returns an object of type `BlackJackCard`
   * method `Draw` throws an `InvalidOperationException` when the deck is empty
+* Use a `git` command to commit your changes
+* Copy the `BlackJackTest` class and make it pass
 * Use a `git` command to commit your changes
 
 ## Solution
@@ -168,6 +169,14 @@ git commit -m "Add xUnit Test Project"
 TODO: add commit links
 
 * Create a class `DeckTest` in the test project and implement the tests
+
+TODO: add commit links
+
+* Use a `git` command to commit your changes
+* Copy the `BlackJackTest` class and make it pass
+
+TODO: add commit links
+
 * Use a `git` command to commit your changes
 
 ## Class diagram explanation
