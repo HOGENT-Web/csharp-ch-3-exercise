@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Domain
+﻿namespace Domain
 {
     public class Card
     {
@@ -12,7 +10,8 @@ namespace Domain
         #region Constructors
         public Card(Suit suit, FaceValue faceValue)
         {
-            throw new NotImplementedException();
+            Suit = suit;
+            FaceValue = faceValue;
         }
         #endregion
     }
